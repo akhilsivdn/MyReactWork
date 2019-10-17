@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akhilsivdn/developer-test.git"
+    "url": "https://github.com/akhilsivdn/MyReactWork"
   },
   "keywords": [
     "rarecity",
@@ -18,13 +18,18 @@
   "author": "Akhil Sivanandan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akhilsivdn/developer-test/issues"
+    "url": "https://github.com/akhilsivdn/MyReactWork"
   },
-  "homepage": "https://github.com/akhilsivdn/developer-test#readme",
+  "homepage": "https://github.com/akhilsivdn/MyReactWork",
   "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.4.3",
+    "material-ui-flat-pagination": "^4.0.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-router-dom": "^5.1.1"
+    "react-js-pagination": "^3.0.2",
+    "react-router-dom": "^5.1.1",
+    "react-star-ratings": "^2.3.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
